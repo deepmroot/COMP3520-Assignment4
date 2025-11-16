@@ -3,7 +3,7 @@
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 1. **TempConvProgram.java** - Original code (poorly written)
 2. **TempConvProgramRefactored.java** - Refactored code following clean code principles
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Running the Refactored Program:
 
@@ -39,7 +39,7 @@ java -jar junit-platform-console-standalone.jar --class-path . --scan-class-path
 
 ---
 
-## 📊 Sample Program Output
+## Sample Program Output
 
 ```
 Welcome to the Temperature Conversion Application!
@@ -88,37 +88,37 @@ Thank you for using the Temperature Converter. Goodbye!
 
 ---
 
-## ✅ Key Improvements
+## Key Improvements
 
 ### 1. Naming Conventions
-- ✅ Method names: `convertCelsiusToFahrenheit()` instead of `CtoF()`
-- ✅ Variable names: `userChoice` instead of `x`
-- ✅ Consistent camelCase throughout
+- Method names: `convertCelsiusToFahrenheit()` instead of `CtoF()`
+- Variable names: `userChoice` instead of `x`
+- Consistent camelCase throughout
 
 ### 2. Code Organization
-- ✅ Constants extracted (FAHRENHEIT_OFFSET, KELVIN_OFFSET, etc.)
-- ✅ Helper methods for repeated code
-- ✅ Logical structure with proper separation of concerns
+- Constants extracted (FAHRENHEIT_OFFSET, KELVIN_OFFSET, etc.)
+- Helper methods for repeated code
+- Logical structure with proper separation of concerns
 
 ### 3. Error Handling
-- ✅ Input validation for menu choices
-- ✅ Exception handling for invalid numeric input
-- ✅ User-friendly error messages
+- Input validation for menu choices
+- Exception handling for invalid numeric input
+- User-friendly error messages
 
 ### 4. Code Quality
-- ✅ Switch-case instead of if-else chain
-- ✅ No code duplication (DRY principle)
-- ✅ Meaningful Javadoc comments
-- ✅ Consistent formatting and indentation
+- Switch-case instead of if-else chain
+- No code duplication (DRY principle)
+- Meaningful Javadoc comments
+- Consistent formatting and indentation
 
 ### 5. Testing (Bonus)
-- ✅ 9 comprehensive JUnit tests
-- ✅ Tests for edge cases and common scenarios
-- ✅ 100% test pass rate
+- 9 comprehensive JUnit tests
+- Tests for edge cases and common scenarios
+- 100% test pass rate
 
 ---
 
-## 📈 Comparison: Original vs Refactored
+## Comparison: Original vs Refactored
 
 | Aspect | Original | Refactored |
 |--------|----------|------------|
@@ -133,7 +133,7 @@ Thank you for using the Temperature Converter. Goodbye!
 
 ---
 
-## 🎯 Clean Code Principles Applied
+## Clean Code Principles Applied
 
 1. **Meaningful Names** - Self-documenting code
 2. **DRY (Don't Repeat Yourself)** - No duplication
@@ -145,22 +145,22 @@ Thank you for using the Temperature Converter. Goodbye!
 
 ---
 
-## 📝 Assignment Requirements Checklist
+## Assignment Requirements Checklist
 
-- ✅ Improve method & variable names
-- ✅ Apply Java naming conventions
-- ✅ Remove hard-coded values (magic numbers)
-- ✅ Eliminate duplicated prompts & printing
-- ✅ Improve menu structure
-- ✅ Use consistent formatting & indentation
-- ✅ Validate input & handle errors politely
-- ✅ Add comments only where necessary
-- ✅ Behavior remains the same as original
-- ✅ **Bonus:** JUnit tests with 9 test cases
+- Improve method & variable names
+- Apply Java naming conventions
+- Remove hard-coded values (magic numbers)
+- Eliminate duplicated prompts & printing
+- Improve menu structure
+- Use consistent formatting & indentation
+- Validate input & handle errors politely
+- Add comments only where necessary
+- Behavior remains the same as original
+- **Bonus:** JUnit tests with 9 test cases
 
 ---
 
-## 🏆 Bonus Features
+## Bonus Features
 
 1. **Comprehensive Unit Tests** - 9 JUnit test cases covering all conversion methods
 2. **Enhanced User Interface** - Visual separators and formatted output
@@ -169,7 +169,7 @@ Thank you for using the Temperature Converter. Goodbye!
 
 ---
 
-## 📚 Technologies Used
+## Technologies Used
 
 - **Language:** Java
 - **Testing Framework:** JUnit 5 (Jupiter)
@@ -178,7 +178,7 @@ Thank you for using the Temperature Converter. Goodbye!
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Mandeep Singh
 COMP3520 - Software Engineering  
@@ -186,6 +186,6 @@ November 16, 2025
 
 ---
 
-## 📄 License
+## License
 
 This is an academic project for COMP3520 Assignment 4.
