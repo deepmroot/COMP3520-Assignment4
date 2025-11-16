@@ -180,7 +180,7 @@ Thank you for using the Temperature Converter. Goodbye!
 
 ## 👨‍💻 Author
 
-[Your Name]  
+Mandeep Singh
 COMP3520 - Software Engineering  
 November 16, 2025
 
