@@ -1,0 +1,44 @@
+COMP3520 Assignment 4 - Temperature Conversion Program Refactoring
+==================================================================
+
+GitHub Repository Link:
+https://github.com/deepmroot/COMP3520-Assignment4
+
+
+Repository Contents:
+-------------------
+- Original code (TempConvProgram.java)
+- Refactored code (TempConvProgramRefactored.java)
+- JUnit test file (TempConvProgramTest.java)
+- Documentation (RefactoringReport.md, README.md)
+- Git commit history showing refactoring process
+
+
+Instructions to Create GitHub Repository:
+-----------------------------------------
+1. Go to https://github.com and sign in
+2. Click "New repository"
+3. Name: COMP3520-Assignment4
+4. Description: "Temperature conversion program refactoring for COMP3520 Assignment 4"
+5. Set to Public
+6. Don't initialize with README (we already have one)
+7. Click "Create repository"
+8. Follow the commands shown to push existing repository:
+
+   cd "Z:\COMP3520\Assignment4"
+   git init
+   git add .
+   git commit -m "Assignment 4: Temperature conversion refactoring"
+   git remote add origin https://github.com/YOUR_USERNAME/COMP3520-Assignment4.git
+   git branch -M main
+   git push -u origin main
+
+9. Copy the repository URL and paste it above
+10. Make sure the repository is public and accessible
+
+
+Student Name: Mandeep Singh
+Student ID: T00715283
+Date: November 16, 2025
+Course: COMP3520 - Software Engineering
+GitHub Repository: https://github.com/deepmroot/COMP3520-Assignment4

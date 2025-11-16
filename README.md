@@ -180,9 +180,12 @@ Thank you for using the Temperature Converter. Goodbye!
 
 ## Author
 
-Mandeep Singh
+Mandeep Singh  
+Student ID: T00715283  
 COMP3520 - Software Engineering  
-November 16, 2025
+Thompson Rivers University  
+November 16, 2025  
+GitHub: https://github.com/deepmroot/COMP3520-Assignment4
 
 ---
 

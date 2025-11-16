@@ -1,7 +1,9 @@
 # Assignment 4: Refactoring Report
-**Student Name:** [Your Name]  
+**Student Name:** Mandeep Singh  
+**Student ID:** T00715283  
 **Course:** COMP3520 - Software Engineering  
-**Date:** November 16, 2025
+**Date:** November 16, 2025  
+**GitHub Repository:** https://github.com/deepmroot/COMP3520-Assignment4
 
 ---
 
